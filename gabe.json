@@ -1,8 +1,10 @@
-[{
-"name" : "Gabriel",
-"age" : 18
-},
-{
-    "name" : "Charlotte",
-    "age" : 19
-    }]
+[
+    {
+        "name": "Gabriel",
+        "age": 18
+    },
+    {
+        "name": "Sierra",
+        "age": 19
+    }
+]
